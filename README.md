@@ -1,2 +1,2 @@
 # Lab0_MatMul
-Matrix multiplication on python CPU vs CUDA
+Matrix multiplication on python CPU vs CUDA vs Torch vs NumPy
